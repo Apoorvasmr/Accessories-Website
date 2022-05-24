@@ -1,9 +1,13 @@
-# Cool-Tees
+# Accessories-Website
 ```
-Cool Tees App, with a frontend built in React & Redux and a backend built in Django API.
+Accessries App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO](https://frontend-cool-tees.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://backend-cool-tees.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-accessories-website.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-accessories-website.herokuapp.com/) here!!
+
+![Uploading Screenshot 2022-05-24 at 1.30.58 PM.png…]()
+
+
 ## Tech used
 ```
 * Frontend : React & Redux
@@ -12,7 +16,7 @@ Check out [API LIVE DEMO](https://backend-cool-tees.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/Rajath-B/Cool-tees.git
+git clone https://github.com/Apoorvasmr/Accessories-Website.git
 ```
 2. Backend setting
 ```
