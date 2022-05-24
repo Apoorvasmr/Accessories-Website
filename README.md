@@ -5,7 +5,8 @@ Accessries App, with a frontend built in React & Redux and a backend built in Dj
 Check out [FRONTEND LIVE DEMO](https://frontend-accessories-website.herokuapp.com/) here!!
 Check out [API LIVE DEMO](https://backend-accessories-website.herokuapp.com/) here!!
 
-![Uploading Screenshot 2022-05-24 at 1.30.58 PM.png…]()
+<img width="811" alt="Screenshot 2022-05-24 at 1 30 58 PM" src="https://user-images.githubusercontent.com/99715304/169983638-48629234-766d-4208-832a-30b379f807b2.png">
+
 
 
 ## Tech used
