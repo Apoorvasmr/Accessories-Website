@@ -1,37 +1,20 @@
-# Forum App in React & Redux + Django
-
+# Cool-Tees
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+Cool Tees App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-
-## Live Demo
-
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-
-Check out [FRONTEND LIVE DEMO](https://frontend-accessories-website.herokuapp.com/) here!!
-
-Check out [API LIVE DEMO](https://backend-accessories-website.herokuapp.com/) here!!
-
-<img width="811" alt="Screenshot 2022-05-24 at 1 30 58 PM" src="https://user-images.githubusercontent.com/99715304/169981068-8a1ee13a-a2b3-4153-be12-c27c8a44a7f8.png">
-
-
+Check out [FRONTEND LIVE DEMO](https://frontend-cool-tees.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-cool-tees.herokuapp.com/) here!!
 ## Tech used
-
 ```
 * Frontend : React & Redux
 * Backend : Django
 ```
-
 ## How to Install
-
 1. Git Clone
-
 ```
-git clone https://github.com/Apoorvasmr/Accessories-Website.git
+git clone https://github.com/Rajath-B/Cool-tees.git
 ```
-
 2. Backend setting
-
 ```
 cd backend
 Python -m venv env
@@ -41,14 +24,9 @@ pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
-# Open http://127.0.0.1:8000/posts/
-
-# To have dummy data for testing run:
-python manage.py fixtures/dummy-data.json
+# Open http://127.0.0.1:8000/
 ```
-
 3. Frontend setting
-
 ```
 cd frontend
 npm install
